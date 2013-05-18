@@ -1,6 +1,6 @@
 # Bulldog
 
-### The official 2013 registerguard.com theme.
+### The global base-theme for [The Register-Guard](http://registerguard.com).
 
 ---
 
